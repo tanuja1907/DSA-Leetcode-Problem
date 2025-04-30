@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAY-1-Leetcode/DAY-1-Leetcode.iml" filepath="$PROJECT_DIR$/DAY-1-Leetcode/DAY-1-Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY-2/DAY-2.iml" filepath="$PROJECT_DIR$/DAY-2/DAY-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA Problems solve.iml" filepath="$PROJECT_DIR$/.idea/DSA Problems solve.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day-2-Leetcode Problems/Day-2-Leetcode Problems.iml" filepath="$PROJECT_DIR$/Day-2-Leetcode Problems/Day-2-Leetcode Problems.iml" />
     </modules>
   </component>
 </project>
