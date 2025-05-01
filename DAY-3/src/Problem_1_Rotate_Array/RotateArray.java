@@ -6,9 +6,9 @@ public class RotateArray {
 
         public void rotate(int[] nums, int k) {
             int len=nums.length;
-            int i=k%len;
-            swap(nums,i,len-1);
-            swap(nums,0,i-1);
+            k=k%len;
+            swap(nums,len-k,len-1);
+            swap(nums,0,len-k-1);
             swap(nums,0,len-1);
 
         }
