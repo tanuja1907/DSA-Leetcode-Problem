@@ -8,7 +8,7 @@ class Solution {
         int end=nums.length-1;
         if(target>nums[end])return end+1;
         while(start<end){
-            int mid=start+(end-start)/2;
+            int mid=start+end/2;
             if(nums[mid]<target){
                 start=mid+1;
             }else if(nums[mid]>target){
