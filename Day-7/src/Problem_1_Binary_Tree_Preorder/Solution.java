@@ -3,6 +3,8 @@ package Problem_1_Binary_Tree_Preorder;
 import java.util.ArrayList;
 import java.util.List;
 
+//S.C.-O(h)
+//T.C.-O(n)
 class Solution {
 
     public static class TreeNode {
