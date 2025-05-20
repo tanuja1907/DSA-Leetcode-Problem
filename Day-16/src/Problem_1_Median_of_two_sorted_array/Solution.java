@@ -35,6 +35,6 @@ class Solution {
         int[] arr1={1,3};
         int[] arr2={2};
         Solution solution=new Solution();
-        System.out.println(solution.findMedianSortedArrays(arr1,arr2));
+        System.out.println("Median of two array: "+solution.findMedianSortedArrays(arr1,arr2));
     }
 }

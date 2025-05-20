@@ -24,6 +24,6 @@ class Solution {
     public static void main(String[] args) {
         Solution solution=new Solution();
         int[] arr={1,8,6,2,5,4,8,3,7};
-        System.out.println("Area with max water "+solution.maxArea(arr));
+        System.out.println("Area with max water: "+solution.maxArea(arr));
     }
 }

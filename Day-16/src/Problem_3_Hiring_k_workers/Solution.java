@@ -76,6 +76,6 @@ class Solution {
         int k=3;
         int candidates=4;
         Solution solution=new Solution();
-        System.out.println(solution.totalCost(costs,k,candidates));
+        System.out.println("Total cost required: "+solution.totalCost(costs,k,candidates));
     }
 }
